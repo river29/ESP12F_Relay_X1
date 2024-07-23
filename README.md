@@ -1,23 +1,12 @@
 # ESP12F_Relay_X1
 
 ESP12 GPIO :
+
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
 Utiliser IO10 pour détection Vusb control
 
 
-Olá pessoal, aqui é mais um conteudo da Athenas Arch.
-
-Link do canal para vídeos da placa em: https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ
-
-Redes Sociais:
-   - Instagram: https://www.instagram.com/athenasarch/
-
-   - YouTube: https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ
-
-* Todo firmware postado aqui FOI TESTADO!
-
-* Pensando em facilitar o desenvolvimento de projetos, trouxemos a placa ESP12F_Relay_X1.
 
 # A placa conta com:
     1 - Módulo ESP-12F WiFi estável integrado, com memória Flash de 4M Byte;
