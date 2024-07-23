@@ -1,10 +1,10 @@
 # ESP12F_Relay_X1
 
-ESP12 GPIO :
+## ESP12 GPIO :
 
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
-Utiliser IO10 pour détection Vusb control
+### Utiliser IO10 pour détection Vusb control
 
 
 
