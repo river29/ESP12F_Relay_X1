@@ -1,5 +1,11 @@
 # ESP12F_Relay_X1
 
+ESP12 GPIO :
+https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+
+Utiliser IO10 pour détection Vusb control
+
+
 Olá pessoal, aqui é mais um conteudo da Athenas Arch.
 
 Link do canal para vídeos da placa em: https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ
